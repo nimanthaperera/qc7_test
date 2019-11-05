@@ -11,7 +11,7 @@ helpstring="Usage: doQC7_complete.sh -c [DetName]
 		-g GEM detector type (i.e. 'long' or 'short')
 		-d good dac scan date
 		-u upto which step the test should be done (dt (only doQC7 or testconnectivity), sb (sbit), sc (scurve) )
-Authors: Nimantha Perera & Kailasapathy Balashangar"
+Author: Nimantha Perera"
 
 AMCSLOT="5"
 CHAMBER_NAME=""
